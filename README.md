@@ -1,5 +1,5 @@
 ### Hi there I am Jobi👋
-🖥️ I've been coding in Python primarily for over 1 years
+🖥️ I've been coding in Python primarily for over 1 years <br />
 🔭 I’m currently working on Automation App <br />
 🌱 I’m currently learning ML and Rust
 <!--
