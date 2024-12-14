@@ -1,8 +1,8 @@
-### Hi there I am Jobi👋
-🖥️ Look at my [Portfolio](https://jobiss.vercel.app/) <br />
-🖥️ I've been coding in Python primarily for over 1.5 years <br />
+### Hi there, I'm Jobi👋
+🌐 Check out my [personal portfolio](https://jobiss.vercel.app/) to see my work. <br />
+🖥️ I’ve been coding primarily in Python for over 1.5 years, with a solid foundation in Angular. <br />
 🔭 I’m currently working on Automation App <br />
-🌱 I’m currently learning ML and Rust
+🌱 I’m learning React to expand my frontend development skills.
 <!--
 **jobissjo/jobissjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
