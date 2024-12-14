@@ -3,7 +3,7 @@
 🖥️ I’ve been coding primarily in Python for over 1.5 years, with a solid foundation in Angular. <br />
 🔭 I’m currently working on Automation App <br />
 🌱 I’m learning React to expand my frontend development skills.
-🔍 Check out my coding challenges on <a href="https://leetcode.com/u/jobi_s_s/"><img src="./leetcode.png" alt="LeetCode" width="30"></a> and connect with me on <a href="https://www.linkedin.com/in/jobiss12/"><img src="./linkedin.png" alt="LinkedIn" width="30"></a>.
+🔍 Check out my coding challenges on <a href="https://leetcode.com/u/jobi_s_s/"><img src="./leetcode.png" alt="LeetCode" width="20" height="20"></a> and connect with me on <a href="https://www.linkedin.com/in/jobiss12/"><img src="./linkedin.png" alt="LinkedIn" height="20" width="20"></a>.
 <!--
 **jobissjo/jobissjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
