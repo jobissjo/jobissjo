@@ -1,20 +1,6 @@
-### Hi there, I'm Jobi👋
-🌐 Check out my [personal portfolio](https://jobiss.vercel.app/) to see my work. <br />
-🖥️ I’ve been coding primarily in Python for over 1.5 years, with a solid foundation in Angular. <br />
-🔭 I’m currently working on Automation App <br />
-🌱 I’m learning React to expand my frontend development skills. <br />
-🔍 Check out my coding challenges on <a href="https://leetcode.com/u/jobi_s_s/"><img src="./leetcode.png" alt="LeetCode" width="20" height="20"></a> and connect with me on <a href="https://www.linkedin.com/in/jobiss12/"><img type="image/x-icon" src="./linkedin.ico" alt="LinkedIn" height="20" width="20"></a>.
-<!--
-**jobissjo/jobissjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there, I'm Jobi 👋  
+🌐 Check out my [personal portfolio](https://jobiss.vercel.app/) to explore my work. <br />  
+🖥️ I’ve been coding primarily in Python for over 2 years and also have a solid foundation in Angular and React. <br />  
+🔭 I’m currently working on an Automation App. <br />  
+🌱 I’m learning NoSQL (MongoDB) and DevOps. <br />  
+🔍 Explore my coding challenges on <a href="https://leetcode.com/u/jobi_s_s/"><img src="./leetcode.png" alt="LeetCode" width="20" height="20"></a> and connect with me on <a href="https://www.linkedin.com/in/jobiss12/"><img type="image/x-icon" src="./linkedin.ico" alt="LinkedIn" height="20" width="20"></a>.  
